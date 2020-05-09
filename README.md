@@ -1,2 +1,2 @@
-# sagemaker-sentiment-analysis-assignment
-sagemaker-sentiment-analysis-assignment
+# sagemaker-sentiment-analysis
+sagemaker-sentiment-analysis
